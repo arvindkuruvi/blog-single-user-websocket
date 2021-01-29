@@ -4,7 +4,7 @@ let connectButton;
 let disconnectButton;
 let socket;
 let statusInput;
-let tokenInput;
+let tokenInput; 
 
 const connect = () => {
   let error = null;
